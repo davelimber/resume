@@ -32,7 +32,9 @@ a, a:hover{
 }
 .profile-image{
     text-align: center;
-    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 .profile-picture{
