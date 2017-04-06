@@ -27,20 +27,20 @@ a, a:hover{
     color: #CC2224;
 }
 .profile-container{
-    padding: 10px;
-    min-height: 225px;
+    padding: 30px;
+    /*min-height: 225px;*/
+   
 }
 .profile-image{
     text-align: center;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+  
 
 }
 .profile-picture{
-    border-radius: 3px;
-    height: 210px;
-    border-radius: 100px;
+    border-radius: 1px;
+    height: 225px;
+
 }
 .profile-contact{
     padding-top: 15px;
